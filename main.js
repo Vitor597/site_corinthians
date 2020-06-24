@@ -1,0 +1,10 @@
+//var nome= "vitor souza";
+//var idade= "18";
+//var idade2= "22";
+//var frase= "vai corinthians";
+//alert(nome + "tem" + idade + "anos");
+//alert(idade + idade2);
+//console.log(nome);
+//console.log(idade + idade2);
+//console.log(frase.replace("Japão", "Brasil"));
+//alert(frase.replace("Japão", "Brasil"));
